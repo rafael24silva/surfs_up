@@ -10,6 +10,9 @@ From the results, we can see that:
 
 Below we can see both charts side-by-side:
 
+![Screenshot (53)](https://user-images.githubusercontent.com/106933029/184268541-1ca37989-58f4-4916-822c-803eb384204e.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/106933029/184268587-6725d4a3-935d-42c6-bdbb-9b42f4a89373.png)
+
 
 
 ## Summary
